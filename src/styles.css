@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container{
+  border:2px solid black;
+  margin-bottom:3px;
+  border-radius:8px;
+ text-align:left;
+ color:rgb(0,255,234);
+ background-color:gray
+}
+button{
+  border:none;
+  background:none;
+  font-weight:bold;
+  font-size:30px
+
+}
+.answer{
+  font-weight:bold;
+  font-size:30px;
+  color:yellow
+}
+.rotate{
+  transform:rotate(90deg)
+}
